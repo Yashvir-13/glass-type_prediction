@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run glasstype.py
+web: sh setup.sh && streamlit run glass_type.py
